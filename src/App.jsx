@@ -26,3 +26,5 @@ function App() {
 }
 
 export default App
+
+//! Commit message: "Initial commit of App.jsx with basic structure and comments for implementation steps."
